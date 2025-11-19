@@ -2,7 +2,7 @@
 - ทดสอบ Login จากระบบ HRM (OrangeHRM)
 - เขียน Test Case, รายงาน Bug
 - เครื่องมือ: Google Sheets, Jira, GitHub
-🔗 GitHub: https://github.com/your-username/manual-testing-portfolio
+🔗 GitHub: https://github.com/your-username/manual-testing
 
 
 ## 📄 Included
